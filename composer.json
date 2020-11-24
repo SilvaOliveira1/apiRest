@@ -1,0 +1,7 @@
+{
+  "name": "AtvApiRest",
+  "description": "Api Rest",
+  "require": {
+    "slim/slim": "^3"
+  }
+}
